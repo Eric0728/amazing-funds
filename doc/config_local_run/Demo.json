@@ -1,0 +1,52 @@
+{
+    "fundRecords": [
+        {
+	        "fundCode":     "00013",
+	        "fundName":     "银华交易型货币B",
+	        "returnYTD":    "11.63",
+	        "return1Week":  "0.08",
+	        "return1Month": "0.36",
+	        "return3Month": "1.04",
+	        "return6Month": "2.07",
+	        "return1Year":  "11.93",
+	        "return2Year":  "-",
+	        "return3Year":  "-",
+	        "return5Year":  "-",
+	        "return5Year":  "-",
+	        "return10Year": "-",
+	        "returnInception": "14.63"
+        },
+		   {
+	        "fundCode":     "00014",
+          "fundName": "易方达现金增利货币 - B",
+          "returnYTD": "4.22",
+          "return1Week": "0.09",
+          "return1Month": "0.38",
+          "return3Month": "1.15",
+          "return6Month": "2.37",
+          "return1Year": "4.60",
+          "return2Year": "3.85",
+          "return3Year": "-",
+          "return5Year": "-",
+          "return5Year": "-",
+          "return10Year": "-",
+          "returnInception": "10.48"
+        },
+		   {
+	        "fundCode":     "00015",
+        "fundName": "广发活期宝货币B",
+        "returnYTD": "4.00",
+        "return1Week": "0.08",
+        "return1Month": "0.36",
+        "return3Month": "1.12",
+        "return6Month": "2.30",
+        "return1Year": "4.31",
+        "return2Year": "-",
+        "return3Year": "-",
+        "return5Year": "-",
+        "return5Year": "-",
+        "return10Year": "-",
+        "returnInception": "4.92"
+      },
+	]
+}
